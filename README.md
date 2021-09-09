@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2>
+  Hi there, I'm <a href="https://www.felixbinder.at/" target="_blank" rel="noreferrer">Felix Binder</a>. 👋
+</h2>
 
-<!--
-**Felix-Binder/Felix-Binder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>
+  Welcome to my Github Profile!
+</h3>
 
-Here are some ideas to get you started:
+<p>
+  I'm a DevOps Engineer, Full-Stack Developer and Designer who loves to create Web and Mobile Applications!
+</p> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Talking about me: </h4>
+<ul>
+  <li>🌱 I'm currently learning <a href="https://nestjs.com" target="_blank" rel="noreferrer">NestJS</a>.</li>
+  <li>🚀 I'm currently working on updating my Homepage.</li>
+  <li>📫 Contact me <a href="mailto:office@felixbinder.at" target="_blank" rel="noreferrer">office@felixbinder.at</a>.</li>
+  <li>📝 Visit my <a href="https://portfolio.felixbinder.at" target="_blank" rel="noreferrer">Portfolio</a>.</li>
+</ul>
+
+<h2>📈 My GitHub Stats </h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Felix-Binder" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Binder" />
