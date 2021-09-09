@@ -18,7 +18,13 @@
   <li>📝 Visit my <a href="https://portfolio.felixbinder.at" target="_blank" rel="noreferrer">Portfolio</a>.</li>
 </ul>
 
-<h2>📈 My GitHub Stats </h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Felix-Binder" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Binder" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Felix-Binder" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Binder" />
+    </td>
+  </tr>
+</table>
