@@ -7,7 +7,7 @@
 </h3>
 
 <p>
-  I'm a DevOps Engineer, Full-Stack Developer and Designer who loves to create Web and Mobile Applications!
+  I'm a Full-Stack DevOps Engineer and Designer who loves to create Web and Mobile Applications!
 </p> 
 
 <h4>Talking about me: </h4>
