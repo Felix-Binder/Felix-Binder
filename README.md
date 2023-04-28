@@ -7,15 +7,14 @@
 </h3>
 
 <p>
-  I'm a Full-Stack DevOps Engineer and Designer who loves to create Web and Mobile Applications!
+  I'm a Full-Stack and DevOps Engineer with a passion to develop create applications that work.
 </p> 
 
 <h4>Talking about me: </h4>
 <ul>
-  <li>🌱 I'm currently learning <a href="https://nestjs.com" target="_blank" rel="noreferrer">NestJS</a>.</li>
-  <li>🚀 I'm currently working on updating my Homepage.</li>
-  <li>📫 Contact me <a href="mailto:office@felixbinder.at" target="_blank" rel="noreferrer">office@felixbinder.at</a>.</li>
-  <li>📝 Visit my <a href="https://portfolio.felixbinder.at" target="_blank" rel="noreferrer">Portfolio</a>.</li>
+  <li>🚀 I'm currently working on a Cybersecurity Service.</li>
+  <li>📫 Contact me <a href="mailto:hello@felixbinder.at" target="_blank" rel="noreferrer">hello@felixbinder.at</a>.</li>
+  <li>📝 Visit my <a href="https://wwww.felixbinder.at" target="_blank" rel="noreferrer">Homepage</a>.</li>
 </ul>
 
 <table>
